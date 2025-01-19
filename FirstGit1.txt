@@ -1,0 +1,75 @@
+Hi Hello
+
+ history for git bash to notepad++
+    1  aws
+    2  notepad++
+    3  Notepad++
+    4  Notepad++
+    5  notepad++
+    6  git
+    7  Notepad
+    8  notepad
+    9  ls
+   10  notepad++
+   11  notepad++
+   12  git
+   13  cd cd cd cd \
+   14  cd \
+   15  cd /
+   16  cd Downlo
+   17  ls
+   18  cd
+   19  ls
+   20  cd Downloads/
+   21  cd ssh -i "jenkins1.pem" ec2-user@ec2-16-171-162-94.eu-north-1.compute.amazonaws.com
+   22  cd ssh -i "jenkins1.pem" ec2-user@ec2-16-171-162-94.eu-north-1.compute.amazonaws.com
+   23  ssh -i "jenkins1.pem" ec2-user@ec2-16-171-162-94.eu-north-1.compute.amazonaws.com
+   24  aws --version
+   25  which aws
+   26  ssh -i "putty.pem" ec2-user@ec2-16-170-205-131.eu-north-1.compute.amazonaws.com
+   27  ssh -i "putty.pem" ec2-user@ec2-16-170-205-131.eu-north-1.compute.amazonaws.com
+   28  ls
+   29  Notepad++
+   30  git --version
+   31  notepad++
+   32  git config --global core.editor "notepad++ -multiInst -nosession"
+   33  cd GIT
+   34  cd /c
+   35  ls
+   36  mkdir SHAM
+   37  cd GIT
+   38  echo "Hi Hello" >> FirstGit.txt
+   39  git config --global user.name "sami khan"
+   40  git config --global user.email "ksami9812@gmail.com"
+   41  git config --global -l
+   42  history
+   43  git init
+   44  git init
+   45  git status
+   46  git stataus
+   47  git add FirstGit.txt
+   48  git status
+   49  git log
+   50  git commit
+   51  notepad++
+   52  history
+   53  git config --global core.editor "notepad++ -multiInst -nosession"
+   54  cd GIT
+   55  cd /c
+   56  GIT
+   57  cd GIT
+   58  history
+   59  ls
+   60  echo "Hi Hello" >> FirstGit1.txt
+   61  git init
+   62  git status
+   63  git add FirstGit3.txt
+   64  git add FirstGit.txt
+   65  git staatus
+   66  git status
+   67  git log
+   68  git commit -m "Success commit"
+   69  git status
+   70  git log
+   71  history
+
