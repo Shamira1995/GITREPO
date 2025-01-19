@@ -1,6 +1,3 @@
-Hi Hello
-
- history for git bash to notepad++
     1  aws
     2  notepad++
     3  Notepad++
@@ -72,4 +69,85 @@ Hi Hello
    69  git status
    70  git log
    71  history
+   72  gut status
+   73  git status
+   74  git status
+   75  ls
+   76  FirstGIT1.txt
+   77  FirstGit1.txt C:/GIT/FirstGit1.txt
+   78  pwd
+   79  notepad.exe /c/GIT/FirstGit1.txt
+   80  git remote
+   81  git remote add test1 https://github.com/iam-veeramalla/learn-devops.git
+   82  git remote add test1 https://github.com/Ksami9812/Repo.git
+   83  git remote add origin https://github.com/Ksami9812/Repo.git
+   84  git init
+   85  git remote add origin https://github.com/Ksami9812/Repo.git
+   86  ls
+   87  git remote
+   88  git remote add origin https://github.com/Ksami9812/Repo
+   89  git remote add origin https://github.com/Ksami9812/Repo1
+   90  git remote add test https://github.com/Ksami9812/Repo1
+   91  ls
+   92  git remote
+   93  git branch -m main
+   94  notepad++
+   95  cd c/
+   96  notepad++
+   97  history
+   98  git add .
+   99  ls
+  100  cd c/
+  101  cd c/
+  102  cd /c
+  103  cd GIT
+  104  ls
+  105  git push -u origin main
+  106  notepad++
+  107  /c
+  108  c/
+  109  cd /c
+  110  ls
+  111  cd GIT
+  112  ls
+  113  git remote add origin https://github.com/Ksami9812/Repo.
+  114  git status
+  115  notepad
+  116  git config --global user.name "sami khan"
+  117  git config --global user.email "ksami9812@gmail.com"
+  118  git config --global -l
+  119  git log
+  120  history
+  121  git remote add origin https://github.com/Ksami9812/Repo.git
+  122  git remote
+  123  git remote add test https://github.com/Ksami9812/Repo1
+  124  git remote
+  125  git branch -m main
+  126  git push -u test main
+  127  cd /c
+  128  cd GIT
+  129  git init
+  130  git remote add origin https://github.com/Ksami9812/Repo.git
+  131  git status
+  132  git add .
+  133  git commit -m "Initial commit"
+  134  git status
+  135  git push -u origin master
+  136  git push -u origin main
+  137  git config --global --list
+  138  git clone https://github.com/Shamira1995/your-repo.git
+  139  https://github.com/Shamira1995/GITREPO.git
+  140  cd /c/GIT
+  141  git remote
+  142  https://github.com/Shamira1995/GITREPO.git
+  143  echo "# GITREPO" >> README.md
+  144  git init
+  145  git add README.md
+  146  git commit -m "first commit"
+  147  git branch -M main
+  148  git remote add Shami https://github.com/Shamira1995/GITREPO.git
+  149  git push -u Shami main
+  150  git status
+  151  git pull Shami
+  152  history
 
